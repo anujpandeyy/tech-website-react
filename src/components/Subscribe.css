@@ -1,0 +1,29 @@
+.subpara{
+    width: 792px;
+    height: 195px;
+}
+
+.parasub{
+    font-size: 32px;
+    color: #FFFFFF;
+    position: relative;
+    top: 10em;
+    text-align: justify;
+
+}
+
+.img3{
+    position: relative;
+    top: 1em;
+    left: 62em;
+    height: 431px;
+    width: 829px;
+}
+
+.sub{
+    font-weight: bolder;
+    font-size: 96px;
+    position: relative;
+    left: 1.2em;
+    color: #FF5C00;
+}
